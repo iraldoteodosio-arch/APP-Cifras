@@ -1,0 +1,6 @@
+{
+  "name": "Cantai - Violão, Cifras e Louvores Sincronizados",
+  "description": "Aplicativo de violão, cifras e louvores de adoração sincronizados em tempo real com reprodução de áudio, transposição de tom, capotraste e diagramas de acordes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

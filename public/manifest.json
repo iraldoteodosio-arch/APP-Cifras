@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Cantai - Violão, Cifras e Louvores Sincronizados",
+  "short_name": "Cantai",
+  "description": "Aplicativo de violão, cifras e louvores de adoração sincronizados em tempo real com reprodução de áudio, transposição de tom, capotraste e diagramas de acordes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["music", "lifestyle", "education"]
+}
